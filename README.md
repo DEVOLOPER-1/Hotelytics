@@ -33,7 +33,6 @@ Our goal? **Empower hotel managers with data-driven decisions** to elevate guest
 ## 📊 Dashboard Overview
 
 ### **1️⃣ Booking Trends and Customer Behavior Tab**
-![Tab 1: Booking Trends and Customer Behavior](file-7XgUa8UQ7BDyH6XKud1UK8)
 
 This tab focuses on:
 - Cancellation counts by season 🌞🍁.
@@ -41,7 +40,6 @@ This tab focuses on:
 - Cancellation patterns across market segments (e.g., Online vs. Offline channels) 🛒.
 
 ### **2️⃣ Customer Demographics and Preferences Tab**
-![Tab 2: Customer Demographics and Preferences](file-82jmuc4ABqKQUEeRtpqXpS)
 
 This tab explores:
 - Average stay durations for City vs. Resort Hotels 🏙️⛱️.
@@ -85,10 +83,10 @@ Visit the dashboard at `http://127.0.0.1:8050/` in your browser.
 ## 📷 Screenshots
 
 ### View 1: **Booking Trends and Customer Behavior**
-![Screenshot 1](file-7XgUa8UQ7BDyH6XKud1UK8)
+![Screenshot 1]([file-7XgUa8UQ7BDyH6XKud1UK8](https://res.cloudinary.com/dwgm3yo4j/image/upload/v1732873429/51cmpkQGY3_ztrugf.png))
 
 ### View 2: **Customer Demographics and Preferences**
-![Screenshot 2](file-82jmuc4ABqKQUEeRtpqXpS)
+![Screenshot 2]([file-82jmuc4ABqKQUEeRtpqXpS](https://res.cloudinary.com/dwgm3yo4j/image/upload/v1732873431/msedge_lBWfpRSvaS_ep3ltv.png))
 
 ---
 
