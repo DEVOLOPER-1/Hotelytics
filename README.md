@@ -114,10 +114,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## ❤️ Acknowledgments
+## Contact 📲
 
-A big shoutout to the **InterContinental Cairo Semiramis Hotel team** for inspiring this project and to the contributors who made this dashboard possible!
-
+Linkedin(https://www.linkedin.com/in/youssef-mohammad-9341a71a7)
 ---
 
 Feel free to replace `yourusername` in the repository link with your GitHub username. Let me know if you need further modifications!
