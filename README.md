@@ -83,10 +83,10 @@ Visit the dashboard at `http://127.0.0.1:8050/` in your browser.
 ## 📷 Screenshots
 
 ### View 1: **Booking Trends and Customer Behavior**
-![Screenshot 1]([file-7XgUa8UQ7BDyH6XKud1UK8](https://res.cloudinary.com/dwgm3yo4j/image/upload/v1732873429/51cmpkQGY3_ztrugf.png))
+![Screenshot 1](https://asset.cloudinary.com/dwgm3yo4j/95a39870c4c731f50516b0493e307b6b)
 
 ### View 2: **Customer Demographics and Preferences**
-![Screenshot 2]([file-82jmuc4ABqKQUEeRtpqXpS](https://res.cloudinary.com/dwgm3yo4j/image/upload/v1732873431/msedge_lBWfpRSvaS_ep3ltv.png))
+![Screenshot 2](https://asset.cloudinary.com/dwgm3yo4j/b1f533285a4dc77f8930ca501b80db48)
 
 ---
 
