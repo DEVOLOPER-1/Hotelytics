@@ -76,7 +76,7 @@ Visit the dashboard at `http://127.0.0.1:8050/` in your browser.
 
 - **Dash**: Interactive web applications for data visualization.
 - **Pandas**: Data manipulation and analysis.
-- **Seaborn & Matplotlib**: Stunning visualizations for insights.
+- **Plotly Graphs**: Stunning visualizations for insights.
 
 ---
 
@@ -86,7 +86,7 @@ Visit the dashboard at `http://127.0.0.1:8050/` in your browser.
 ![Screenshot 1](https://github.com/DEVOLOPER-1/Hotelytics/blob/main/Assets/51cmpkQGY3.png)
 
 ### View 2: **Customer Demographics and Preferences**
-![Screenshot 2](https://asset.cloudinary.com/dwgm3yo4j/b1f533285a4dc77f8930ca501b80db48)
+![Screenshot 2](https://github.com/DEVOLOPER-1/Hotelytics/blob/main/Assets/msedge_lBWfpRSvaS.png)
 
 ---
 
