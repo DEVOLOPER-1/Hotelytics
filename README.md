@@ -1,11 +1,3 @@
----
-
-### Repository Name: **Hotelytics - Insights at a Glance 🏨📊**
-
----
-
-### README.md
-
 # Hotelytics - InterContinental Cairo Analytics Dashboard 🏨✨
 
 Welcome to **Hotelytics**, your one-stop dashboard for exploring booking trends, customer behavior, and key business insights at **InterContinental Cairo Semiramis Hotel**. Dive into detailed analytics and uncover patterns that shape business strategies and customer preferences!
