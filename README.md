@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact 📲
 
-Linkedin(https://www.linkedin.com/in/youssef-mohammad-9341a71a7)
+Linkedin[https://www.linkedin.com/in/youssef-mohammad-9341a71a7]
 ---
 
 Feel free to replace `yourusername` in the repository link with your GitHub username. Let me know if you need further modifications!
