@@ -106,4 +106,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact 📲
 
-[LinkedIn](https://www.linkedin.com/in/youssef-mohammad-9341a71a7)
+Have questions or want to connect? Reach out to me on LinkedIn or GitHub!
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/youssef-mohammad-9341a71a7)
